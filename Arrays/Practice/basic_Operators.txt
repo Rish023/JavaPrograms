@@ -1,0 +1,6 @@
+Following are the Basic operations which can be performed on arrays:-
+1.Searching
+2.Sorting
+3.Insertion
+4.Deletion
+5.Merging

@@ -1,0 +1,5 @@
+in.nextFloat();
+in.nextDouble();
+in.next()charAt(0);
+in.next(); - String type data For single word
+in.nextLine(); - String type data For a sentence
