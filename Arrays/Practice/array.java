@@ -11,5 +11,13 @@ public class array {
         int[][] L = new int[2][3];
         L[0][0]=5;
         System.out.println(L[0][0]);
+        int [][]p = {{1,2,3},{4,5,6}};
+        System.out.println(p[0][2]);
+        System.out.println(p.length);
+        System.out.println(p[0].length);
+       // System.out.println(p[0][0].length); This statement provide error to the program
+       
+  
+        
     }
 }
